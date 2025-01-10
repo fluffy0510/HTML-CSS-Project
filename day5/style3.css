@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  color: white;
+}
+
+.bigbox {
+  width: 200px;
+  height: 200px;
+  background-color: gray;
+  color: white;
+  position: relative;
+}
+
+.position {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
+
